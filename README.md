@@ -1,2 +1,4 @@
 # world-zero
-React-app for world zero
+An ARG inspired by sf0.org
+
+
